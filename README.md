@@ -6,4 +6,4 @@ Hi there! :wave: I'm **Dominik Viererbe** *(he/him)*
 - passionate about **open‑source** and **documentation**
 - enjoys science‑fiction and learning about **math & physics**
 
- [:bearded_person: About me](https://www.dviererbe.de/about/) | [:envelope: Contact](https://www.dviererbe.de/contact/) | [:pencil: Blog](https://www.dviererbe.de/posts/)
+:bearded_person: [About me](https://www.dviererbe.de/about/) | :envelope: [Contact](https://www.dviererbe.de/contact/) | :pencil: [Blog](https://www.dviererbe.de/posts/)
